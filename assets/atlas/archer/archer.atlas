@@ -1,0 +1,275 @@
+
+archer.png
+size: 512, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+ATTACK/ATTACK
+  rotate: false
+  xy: 2, 3
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: 8
+ATTACK/ATTACK
+  rotate: false
+  xy: 56, 4
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: 2
+ATTACK/ATTACK
+  rotate: false
+  xy: 108, 6
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: 1
+ATTACK/ATTACK
+  rotate: false
+  xy: 157, 3
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: 3
+ATTACK/ATTACK
+  rotate: false
+  xy: 202, 2
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: 4
+ATTACK/ATTACK
+  rotate: false
+  xy: 246, 2
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: 5
+ATTACK/ATTACK
+  rotate: false
+  xy: 289, 2
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: 6
+ATTACK/ATTACK
+  rotate: false
+  xy: 331, 2
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: 7
+ATTACK/ATTACK
+  rotate: false
+  xy: 373, 4
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: 9
+ATTACK/ATTACK
+  rotate: false
+  xy: 408, 6
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: 0
+
+archer2.png
+size: 256, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+DEATH/DEATH
+  rotate: false
+  xy: 2, 24
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: 3
+DEATH/DEATH
+  rotate: false
+  xy: 55, 23
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: 2
+DEATH/DEATH
+  rotate: false
+  xy: 90, 19
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: 0
+DEATH/DEATH
+  rotate: false
+  xy: 124, 21
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: 1
+DEATH/DEATH
+  rotate: false
+  xy: 2, 6
+  size: 51, 16
+  orig: 51, 16
+  offset: 0, 0
+  index: 5
+DEATH/DEATH
+  rotate: false
+  xy: 55, 2
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: 4
+
+archer3.png
+size: 256, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+HURT/HURT
+  rotate: false
+  xy: 2, 5
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: 0
+HURT/HURT
+  rotate: false
+  xy: 36, 5
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: 5
+HURT/HURT
+  rotate: false
+  xy: 70, 6
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: 1
+HURT/HURT
+  rotate: false
+  xy: 104, 6
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: 4
+HURT/HURT
+  rotate: false
+  xy: 138, 7
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: 2
+HURT/HURT
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: 3
+
+archer4.png
+size: 256, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+IDLE/IDLE
+  rotate: false
+  xy: 2, 2
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: 0
+IDLE/IDLE
+  rotate: false
+  xy: 36, 2
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: 1
+IDLE/IDLE
+  rotate: false
+  xy: 70, 2
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: 3
+IDLE/IDLE
+  rotate: false
+  xy: 104, 2
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: 4
+IDLE/IDLE
+  rotate: false
+  xy: 138, 3
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: 2
+
+archer5.png
+size: 512, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+WALK/WALK
+  rotate: false
+  xy: 2, 2
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: 0
+WALK/WALK
+  rotate: false
+  xy: 36, 2
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: 1
+WALK/WALK
+  rotate: false
+  xy: 70, 2
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: 3
+WALK/WALK
+  rotate: false
+  xy: 104, 2
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: 4
+WALK/WALK
+  rotate: false
+  xy: 138, 2
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: 5
+WALK/WALK
+  rotate: false
+  xy: 172, 3
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: 2
+WALK/WALK
+  rotate: false
+  xy: 206, 3
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: 6
+WALK/WALK
+  rotate: false
+  xy: 240, 3
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: 7

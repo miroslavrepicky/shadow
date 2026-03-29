@@ -1,0 +1,274 @@
+
+wizzard.png
+size: 256, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+ATTACK/ATTACK
+  rotate: false
+  xy: 2, 3
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: 2
+ATTACK/ATTACK
+  rotate: false
+  xy: 77, 3
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: 3
+ATTACK/ATTACK
+  rotate: false
+  xy: 127, 2
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: 0
+ATTACK/ATTACK
+  rotate: false
+  xy: 171, 2
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: 1
+
+wizzard2.png
+size: 512, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+CAST/CAST
+  rotate: false
+  xy: 2, 65
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: 7
+CAST/CAST
+  rotate: false
+  xy: 2, 2
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: 6
+CAST/CAST
+  rotate: false
+  xy: 61, 2
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: 5
+CAST/CAST
+  rotate: false
+  xy: 119, 61
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: 3
+CAST/CAST
+  rotate: false
+  xy: 167, 61
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: 2
+CAST/CAST
+  rotate: false
+  xy: 211, 61
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: 1
+CAST/CAST
+  rotate: false
+  xy: 250, 61
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: 0
+CAST/CAST
+  rotate: false
+  xy: 287, 62
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: 4
+
+wizzard3.png
+size: 256, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+DEATH/DEATH
+  rotate: false
+  xy: 2, 2
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: 0
+DEATH/DEATH
+  rotate: false
+  xy: 40, 3
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: 1
+DEATH/DEATH
+  rotate: false
+  xy: 76, 5
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: 2
+DEATH/DEATH
+  rotate: false
+  xy: 113, 15
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: 3
+DEATH/DEATH
+  rotate: false
+  xy: 153, 38
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: 4
+DEATH/DEATH
+  rotate: false
+  xy: 153, 25
+  size: 62, 11
+  orig: 62, 11
+  offset: 0, 0
+  index: 5
+
+wizzard4.png
+size: 128, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+HURT/HURT
+  rotate: false
+  xy: 2, 2
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: 1
+HURT/HURT
+  rotate: false
+  xy: 36, 3
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: 0
+HURT/HURT
+  rotate: false
+  xy: 68, 3
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: 2
+
+wizzard5.png
+size: 64, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+IDLE/IDLE
+  rotate: false
+  xy: 2, 342
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: 3
+IDLE/IDLE
+  rotate: false
+  xy: 2, 274
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: 2
+IDLE/IDLE
+  rotate: false
+  xy: 2, 274
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: 4
+IDLE/IDLE
+  rotate: false
+  xy: 2, 206
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: 5
+IDLE/IDLE
+  rotate: false
+  xy: 2, 138
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: 0
+IDLE/IDLE
+  rotate: false
+  xy: 2, 70
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: 1
+IDLE/IDLE
+  rotate: false
+  xy: 2, 2
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: 6
+
+wizzard6.png
+size: 32, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+WALK/WALK
+  rotate: false
+  xy: 2, 342
+  size: 26, 66
+  orig: 26, 66
+  offset: 0, 0
+  index: 2
+WALK/WALK
+  rotate: false
+  xy: 2, 274
+  size: 26, 66
+  orig: 26, 66
+  offset: 0, 0
+  index: 5
+WALK/WALK
+  rotate: false
+  xy: 2, 206
+  size: 21, 66
+  orig: 21, 66
+  offset: 0, 0
+  index: 4
+WALK/WALK
+  rotate: false
+  xy: 2, 138
+  size: 20, 66
+  orig: 20, 66
+  offset: 0, 0
+  index: 0
+WALK/WALK
+  rotate: false
+  xy: 2, 70
+  size: 19, 66
+  orig: 19, 66
+  offset: 0, 0
+  index: 1
+WALK/WALK
+  rotate: false
+  xy: 2, 2
+  size: 18, 66
+  orig: 18, 66
+  offset: 0, 0
+  index: 3

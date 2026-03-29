@@ -1,0 +1,48 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "test_map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "platforms.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "test_map.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 222.33333333333337,
+                "y": 294.99999999999994
+            }
+        },
+        "world_tileset.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/mrepi/IdeaProjects/Game3/assets",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "test_map.tmx",
+        "world_tileset.tsx",
+        "platforms.tsx"
+    ],
+    "project": "game_map.tiled-project",
+    "recentFiles": [
+        "platforms.tsx",
+        "world_tileset.tsx",
+        "test_map.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

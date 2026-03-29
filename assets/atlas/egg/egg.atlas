@@ -1,0 +1,145 @@
+
+egg.png
+size: 1024, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+BLAST/BLAST
+  rotate: false
+  xy: 2, 2
+  size: 59, 52
+  orig: 64, 64
+  offset: 3, 0
+  index: 6
+BLAST/BLAST
+  rotate: false
+  xy: 63, 2
+  size: 59, 52
+  orig: 64, 64
+  offset: 3, 0
+  index: 7
+BLAST/BLAST
+  rotate: false
+  xy: 124, 2
+  size: 59, 52
+  orig: 64, 64
+  offset: 3, 0
+  index: 8
+BLAST/BLAST
+  rotate: false
+  xy: 185, 4
+  size: 60, 50
+  orig: 64, 64
+  offset: 2, 0
+  index: 1
+BLAST/BLAST
+  rotate: false
+  xy: 247, 5
+  size: 60, 49
+  orig: 64, 64
+  offset: 2, 0
+  index: 2
+BLAST/BLAST
+  rotate: false
+  xy: 309, 5
+  size: 60, 49
+  orig: 64, 64
+  offset: 2, 0
+  index: 3
+BLAST/BLAST
+  rotate: false
+  xy: 371, 5
+  size: 59, 49
+  orig: 64, 64
+  offset: 3, 0
+  index: 4
+BLAST/BLAST
+  rotate: false
+  xy: 432, 5
+  size: 59, 49
+  orig: 64, 64
+  offset: 3, 0
+  index: 5
+BLAST/BLAST
+  rotate: false
+  xy: 493, 2
+  size: 46, 52
+  orig: 64, 64
+  offset: 9, 0
+  index: 9
+BLAST/BLAST
+  rotate: false
+  xy: 541, 17
+  size: 44, 37
+  orig: 64, 64
+  offset: 10, 0
+  index: 0
+
+egg2.png
+size: 64, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+BOMB/BOMB
+  rotate: false
+  xy: 2, 32
+  size: 30, 30
+  orig: 32, 31
+  offset: 1, 0
+  index: 8
+BOMB/BOMB
+  rotate: false
+  xy: 2, 9
+  size: 12, 21
+  orig: 14, 22
+  offset: 1, 0
+  index: 7
+BOMB/BOMB
+  rotate: false
+  xy: 34, 49
+  size: 11, 13
+  orig: 13, 14
+  offset: 1, 0
+  index: 1
+BOMB/BOMB
+  rotate: false
+  xy: 16, 17
+  size: 11, 13
+  orig: 13, 14
+  offset: 1, 0
+  index: 2
+BOMB/BOMB
+  rotate: false
+  xy: 16, 2
+  size: 11, 13
+  orig: 13, 14
+  offset: 1, 0
+  index: 4
+BOMB/BOMB
+  rotate: false
+  xy: 34, 34
+  size: 10, 13
+  orig: 12, 14
+  offset: 1, 0
+  index: 5
+BOMB/BOMB
+  rotate: false
+  xy: 47, 50
+  size: 10, 12
+  orig: 12, 13
+  offset: 1, 0
+  index: 0
+BOMB/BOMB
+  rotate: false
+  xy: 47, 50
+  size: 10, 12
+  orig: 12, 13
+  offset: 1, 0
+  index: 3
+BOMB/BOMB
+  rotate: false
+  xy: 29, 18
+  size: 10, 12
+  orig: 12, 13
+  offset: 1, 0
+  index: 6

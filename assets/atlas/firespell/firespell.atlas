@@ -1,0 +1,62 @@
+
+firespell.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+FIRESPELL/FIRESPELL
+  rotate: false
+  xy: 2, 736
+  size: 574, 247
+  orig: 640, 360
+  offset: 39, 56
+  index: 0
+FIRESPELL/FIRESPELL
+  rotate: false
+  xy: 2, 494
+  size: 562, 240
+  orig: 640, 360
+  offset: 49, 60
+  index: 7
+FIRESPELL/FIRESPELL
+  rotate: false
+  xy: 578, 743
+  size: 561, 240
+  orig: 640, 360
+  offset: 50, 60
+  index: 3
+FIRESPELL/FIRESPELL
+  rotate: false
+  xy: 2, 248
+  size: 556, 244
+  orig: 640, 360
+  offset: 57, 58
+  index: 2
+FIRESPELL/FIRESPELL
+  rotate: false
+  xy: 2, 2
+  size: 555, 244
+  orig: 640, 360
+  offset: 59, 58
+  index: 6
+FIRESPELL/FIRESPELL
+  rotate: false
+  xy: 1141, 742
+  size: 539, 241
+  orig: 640, 360
+  offset: 72, 60
+  index: 1
+FIRESPELL/FIRESPELL
+  rotate: false
+  xy: 578, 500
+  size: 534, 241
+  orig: 640, 360
+  offset: 76, 59
+  index: 5
+FIRESPELL/FIRESPELL
+  rotate: false
+  xy: 1114, 493
+  size: 526, 247
+  orig: 640, 360
+  offset: 87, 57
+  index: 4

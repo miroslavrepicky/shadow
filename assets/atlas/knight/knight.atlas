@@ -1,0 +1,316 @@
+
+knight.png
+size: 64, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+ATTACK/ATTACK
+  rotate: false
+  xy: 2, 182
+  size: 54, 34
+  orig: 58, 38
+  offset: 2, 2
+  index: 3
+ATTACK/ATTACK
+  rotate: false
+  xy: 2, 148
+  size: 51, 32
+  orig: 55, 36
+  offset: 2, 2
+  index: 5
+ATTACK/ATTACK
+  rotate: false
+  xy: 2, 114
+  size: 49, 32
+  orig: 53, 36
+  offset: 2, 2
+  index: 4
+ATTACK/ATTACK
+  rotate: false
+  xy: 2, 77
+  size: 35, 35
+  orig: 39, 39
+  offset: 2, 2
+  index: 2
+ATTACK/ATTACK
+  rotate: false
+  xy: 2, 39
+  size: 33, 36
+  orig: 37, 40
+  offset: 2, 2
+  index: 1
+ATTACK/ATTACK
+  rotate: false
+  xy: 2, 2
+  size: 26, 35
+  orig: 30, 39
+  offset: 2, 2
+  index: 0
+
+knight2.png
+size: 256, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+DEATH/DEATH
+  rotate: false
+  xy: 2, 28
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: 1
+DEATH/DEATH
+  rotate: false
+  xy: 36, 30
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: 2
+DEATH/DEATH
+  rotate: false
+  xy: 72, 33
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: 4
+DEATH/DEATH
+  rotate: false
+  xy: 72, 2
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: 5
+DEATH/DEATH
+  rotate: false
+  xy: 110, 34
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: 3
+DEATH/DEATH
+  rotate: false
+  xy: 110, 3
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: 6
+DEATH/DEATH
+  rotate: false
+  xy: 147, 33
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: 7
+DEATH/DEATH
+  rotate: false
+  xy: 36, 5
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: 8
+DEATH/DEATH
+  rotate: false
+  xy: 182, 39
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: 9
+DEATH/DEATH
+  rotate: false
+  xy: 182, 2
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: 0
+
+knight3.png
+size: 128, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+HURT/HURT
+  rotate: false
+  xy: 2, 2
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: 1
+HURT/HURT
+  rotate: false
+  xy: 36, 2
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: 2
+HURT/HURT
+  rotate: false
+  xy: 70, 2
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: 3
+HURT/HURT
+  rotate: false
+  xy: 101, 2
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: 0
+
+knight4.png
+size: 256, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+IDLE/IDLE
+  rotate: false
+  xy: 2, 4
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: 2
+IDLE/IDLE
+  rotate: false
+  xy: 35, 5
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: 3
+IDLE/IDLE
+  rotate: false
+  xy: 69, 5
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: 4
+IDLE/IDLE
+  rotate: false
+  xy: 101, 3
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: 1
+IDLE/IDLE
+  rotate: false
+  xy: 132, 4
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: 5
+IDLE/IDLE
+  rotate: false
+  xy: 162, 2
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: 0
+IDLE/IDLE
+  rotate: false
+  xy: 190, 3
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: 6
+
+knight5.png
+size: 128, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+JUMP/JUMP
+  rotate: false
+  xy: 2, 2
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: 3
+JUMP/JUMP
+  rotate: false
+  xy: 2, 2
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: 4
+JUMP/JUMP
+  rotate: false
+  xy: 38, 2
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: 0
+JUMP/JUMP
+  rotate: false
+  xy: 38, 2
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: 1
+JUMP/JUMP
+  rotate: false
+  xy: 68, 4
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: 2
+
+knight6.png
+size: 256, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+WALK/WALK
+  rotate: false
+  xy: 2, 4
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: 3
+WALK/WALK
+  rotate: false
+  xy: 42, 3
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: 2
+WALK/WALK
+  rotate: false
+  xy: 80, 2
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: 1
+WALK/WALK
+  rotate: false
+  xy: 116, 3
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: 4
+WALK/WALK
+  rotate: false
+  xy: 151, 2
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: 5
+WALK/WALK
+  rotate: false
+  xy: 178, 4
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: 7
+WALK/WALK
+  rotate: false
+  xy: 206, 3
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: 6
+WALK/WALK
+  rotate: false
+  xy: 232, 3
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: 0

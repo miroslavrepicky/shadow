@@ -1,0 +1,54 @@
+
+duck.png
+size: 64, 32
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+IDLE/IDLE
+  rotate: false
+  xy: 2, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: 0
+IDLE/IDLE
+  rotate: false
+  xy: 27, 3
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: 1
+
+duck2.png
+size: 128, 32
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+WALK/WALK
+  rotate: false
+  xy: 2, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: 1
+WALK/WALK
+  rotate: false
+  xy: 27, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: 3
+WALK/WALK
+  rotate: false
+  xy: 52, 3
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: 0
+WALK/WALK
+  rotate: false
+  xy: 77, 3
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: 2
